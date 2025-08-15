@@ -37,7 +37,7 @@ public class ListaProdutosActivity extends AppCompatActivity {
         lstProdutos.add(new Produtos("Filme instax", R.drawable.filme_instax));
         lstProdutos.add(new Produtos("Fire TV", R.drawable.fire_tv));
         lstProdutos.add(new Produtos("Impressora mini", R.drawable.impressora_mini));
-        lstProdutos.add(new Produtos("Impressora mini", R.drawable.impressora_mini));
+        lstProdutos.add(new Produtos("Echo Dot", R.drawable.echo_dot));
 
         idListaProdutos = findViewById(R.id.idListaProdutos);
 
